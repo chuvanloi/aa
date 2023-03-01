@@ -4,3 +4,5 @@ edged_img = cv2.Canny(img, 100, 200)
 cv2.imshow('edged image', edged_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+tui đã hiệu sơ sơ
+cv2.ACCESS_WRITE
